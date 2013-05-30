@@ -1,7 +1,11 @@
-Proyecto Final DEW A41A
+Bitacora: https://docs.google.com/spreadsheet/ccc?key=0ArVWC-2N2chkdFk0Tlc3SGFoeVZfaWRSSmJuUVZ2YVE#gid=0
 
--Bitácora del proyecto en google docs (visibilidad "cualquiera que tenga el link").
--Herramienta Scrumy.
--Miembros del grupo / usuario google / usuario de github
+Scrumy:
 
-HOLA :)
+Integrantes del grupo:
+
+Roberto Sanchez / robertosm17@gmail.com / robertosm17
+
+Pablo Guevara / pabloguevara144@gmail.com / pabloguevara12
+
+Sandra Fuentes / sandrafv@gmail.com / Sandrafv
